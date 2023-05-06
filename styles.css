@@ -1,23 +1,42 @@
 h1 {
+    display: block;
     text-align: center;
     margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 h4 {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     font-family: 'Source Code Pro';
 }
 
 h5{
     margin-top: 5%;
+    margin-bottom: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
+    display: block;
     font-family: monospace;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 1em;
 }
 
 hr {
     width: 90%;
+    height: 1px;
     margin: auto;
     margin-top: 10%;
     margin-bottom: 5%;
